@@ -3,6 +3,7 @@
 ## C#
 [Redis Pub/Sub + IAsyncEnumerable streaming (Microservices with .NET 6.0) - FeedR episode #5](https://www.youtube.com/watch?v=80Ke9hsG_RU) <br/>
 [Pricing Feed, Background Service, Channels (Microservices with .NET 6.0) - FeedR episode #4](https://www.youtube.com/watch?v=87raSebE80M&t=1379s&ab_channel=DevMentors) <br/>
+[Instrukcja Switch (na typie string) | Jak działa C#?](https://www.youtube.com/watch?v=Bx9bRwOl450)<br/>
 
 ### Async/Await
 [Which do I use, ConfigureAwait True or False?](https://www.youtube.com/watch?v=F9_8MJbsnzg) <br/>
